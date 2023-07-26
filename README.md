@@ -1,6 +1,5 @@
 # **Google-meet-clone** 
 
-###### *visit - https://meet-clone-d6071.web.app/*
 
 ## **Description** 
 
